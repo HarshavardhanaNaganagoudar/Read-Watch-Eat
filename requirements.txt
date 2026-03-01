@@ -1,0 +1,10 @@
+gradio
+requests
+langchain
+deepagents
+tavily
+langgraph
+langchain_community
+langchain_mistralai
+mistralai
+typing_extensions
