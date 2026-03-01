@@ -58,7 +58,7 @@ Try it out:
 ---
 ## 📺 Demo Video
 
-🎥 [Watch the Demo on YouTube](https://youtu.be/s3Bv1rRQYSw?si=3x4_83iZjIpvsIpw)
+🎥 [Watch the Demo on YouTube](https://youtu.be/OeeDI6Q3sQY)
 
 ---
 ## Demo Screen
